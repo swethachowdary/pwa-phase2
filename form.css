@@ -1,0 +1,76 @@
+#main{
+	background: orange;
+	text-align: center;
+}
+header{
+	background-color: lightblue;
+	height: 10vh;
+	padding: 1%;
+	margin: 1%;
+}
+#main a{
+	text-decoration: none;
+}
+#main button{
+	background-color: pink;
+
+}
+.profile{
+	color:red;
+
+}
+body{
+	background-color: gray;
+	text-align: center;
+}
+.main {
+	background-color: lightblue;
+	margin: 3%;
+	padding: 2%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	border-radius: 5%;
+	text-align: center;
+	justify-content: space-around;
+}
+.subdiv1{
+	width: 90%;
+	background: pink;
+	text-align: center;
+	margin: 2%;
+	border-radius: 6%;
+	height: 130px;
+	border-style: dotted;
+}
+.subdiv2{
+	width: 40%;
+	background:  lightgreen;
+	text-align: center;
+	height: 250px;
+	border-style: dotted;
+	margin: 2%;
+    border-radius: 5%;
+}
+.subdiv3{
+	width: 90%;
+	background:  lightgreen;
+	text-align: center;
+	height: 55px;
+	border-style: dotted;
+	margin: 2%;
+    padding: 5%;
+}
+button{
+	height:80%;
+	width:15%;
+	background: pink;
+	box-shadow: 1px 1px 1px 1px;
+	border-radius: 50%;
+}
+input,select
+{
+	width:80%;
+	margin:1%;
+}
+

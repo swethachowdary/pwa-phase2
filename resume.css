@@ -1,0 +1,29 @@
+.main{
+	background-color: skyblue;
+	display: flex;
+	display-direction: row;
+	padding: 2%;
+	justify-content: space-around;
+	margin: 2%;
+	width: 40%;
+
+}
+.left{
+	background-color: lightgreen;
+	text-align: center;
+	padding: 2%;
+	margin: 2%;
+	width: 40%;
+	height: 50%;
+	margin-right: 2%;
+	
+}
+.right{
+	background: pink;
+	width: 70%;
+	padding: 1%;
+	margin-left: 2%; 
+}
+img{
+	width: 30%;
+}
